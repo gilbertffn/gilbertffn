@@ -62,13 +62,17 @@ class Gilberto:
 
 ## 📈 Estadísticas
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gilbertffn&show_icons=true&theme=github_dark&hide_border=true&border_radius=12" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertffn&layout=compact&theme=github_dark&hide_border=true&border_radius=12" />
-
-</div>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=gilbertffn&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertffn&layout=compact&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
+</p>
 
 ---
 
