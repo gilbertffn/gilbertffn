@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Gilberto David García Lara
+# Hola 👋, soy Gilberto David García Lara
 
 ### 💻 Ingeniero en TIC's | Backend Developer
 
@@ -60,19 +60,15 @@ class Gilberto:
 
 ---
 
-## 📈 Estadísticas
+## 📌 Perfil Técnico
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=gilbertffn&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="165"
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertffn&layout=compact&theme=tokyonight&hide_border=true" 
-    height="165"
-  />
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Ingeniero%20en%20TIC's-Backend%20Developer-58A6FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-Django-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Database-PostgreSQL%20%7C%20MySQL-336791?style=for-the-badge" />
+
+</div>
 
 ---
 
