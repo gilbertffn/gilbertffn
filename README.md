@@ -1,49 +1,91 @@
-# 👋 Hola, soy Gilberto
+<div align="center">
 
-💻 **Ingeniero en TIC's** enfocado en desarrollo backend y construcción de sistemas web modernos.  
-🚀 Apasionado por crear plataformas funcionales, escalables y con interfaces limpias.
+# 👋 Gilberto David García Lara
+
+### 💻 Ingeniero en TIC's | Backend Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Python+%7C+Django+Developer;Backend+%26+Web+Systems;Building+Modern+Web+Solutions" />
+
+</div>
+
+---
 
 ## 🧠 Sobre mí
 
-- ⚙️ Desarrollo backend con **Python** y **Django**
-- 🗄️ Manejo de bases de datos con **PostgreSQL** y **MySQL**
-- 🎨 Diseño de interfaces modernas y responsivas
-- 🧩 Creación de sistemas administrativos y plataformas web
-- 📚 Interesado en arquitectura web y buenas prácticas de desarrollo
-- 🚀 Siempre aprendiendo nuevas tecnologías
+```python
+class Gilberto:
+    role = "Ingeniero en TIC's"
+    focus = "Backend Development"
 
-## 🛠️ Tecnologías
+    stack = [
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "MySQL",
+        "JavaScript",
+        "Bootstrap"
+    ]
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,html,css,js,bootstrap,git,github,vscode" />
-</p>
+    interests = [
+        "Web Systems",
+        "Backend Architecture",
+        "Modern UI",
+        "Responsive Design"
+    ]
+```
 
-## 📌 Proyectos Destacados
+---
 
-🔹 **Sistema de Reporte de Averías**  
-Plataforma web para gestión y seguimiento de incidencias técnicas.
+## ⚙️ Tecnologías
 
-🔹 **Tecnobias**  
-Proyecto orientado a servicios y soluciones tecnológicas web.
+<div align="center">
 
-🔹 **Dashboards & Interfaces Modernas**  
-Diseño de paneles administrativos responsivos y optimizados.
+<img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,html,css,js,bootstrap,git,github,vscode&perline=6" />
 
-## 📊 GitHub Stats
+</div>
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=transparent&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=transparent&hide_border=true"/>
-</p>
+---
 
-## 🌐 Conecta conmigo
+## 🚀 Proyectos
 
-<p align="left">
-  <a href="https://github.com/TUUSUARIO">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>"Building modern web solutions with clean backend architecture."</i>
-</p>
+| Proyecto | Descripción |
+|---|---|
+| 🛠️ Sistema de Averías | Gestión y seguimiento de incidencias técnicas |
+| 🌐 Tecnobias | Plataforma orientada a servicios tecnológicos |
+| 📊 Dashboards Web | Interfaces administrativas modernas y responsivas |
+
+</div>
+
+---
+
+## 📈 Estadísticas
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=github_dark&hide_border=true&border_radius=12" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=github_dark&hide_border=true&border_radius=12" />
+
+</div>
+
+---
+
+## 🌎 Contacto
+
+<div align="center">
+
+<a href="https://github.com/TUUSUARIO">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ *"Building scalable backend solutions with clean architecture."*
+
+</div>
