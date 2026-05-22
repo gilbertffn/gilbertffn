@@ -32,6 +32,11 @@ class Gilberto:
         "Modern UI",
         "Responsive Design"
     ]
+
+    languages = [
+        "Spanish / Español",
+        "English / Inglés"
+    ]
 ```
 
 ---
@@ -76,6 +81,8 @@ class Gilberto:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gilbertffn&theme=gotham&hide_border=true)<br/>
 [![](https://visitcount.itsvg.in/api?id=gilbertffn&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
 
 ## 🌎 Contacto
 
